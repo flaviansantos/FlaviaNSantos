@@ -1,7 +1,7 @@
 ﻿<h1 align="left">Olá, sejam muito bem vindos ao meu repositorio online!!!</h1>
 <p align="left"><img src="https://komarev.com/ghpvc/?username=FlaviaNSantos&color=yellow" alt="Profile views" /> </p>
 
-- :open_book: Amante tecnológico, sempre buscando aprimoramento e novos conhecimentos.
+- :open_book: Respiro tecnologia no meu dia a dia, sempre buscando aprimoramento e novos conhecimentos.
 
 - 👨‍💻 Procuro oportunidades que valorizem o meu conhecimento e habilidades!.
 <br><br>
